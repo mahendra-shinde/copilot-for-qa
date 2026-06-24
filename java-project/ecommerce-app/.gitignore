@@ -1,0 +1,4 @@
+# ignore maven target directory
+target/
+# ignore spring boot build directory
+build/
